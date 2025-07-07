@@ -2,6 +2,8 @@
 
 A modern, interactive implementation of the classic Tenzies dice game built with modern web technologies.
 
+The website was build during *Scrimba Frontend Development Career Path*.
+
 🎮 **Play Now:** [https://tenzies-mm.netlify.app/](https://tenzies-mm.netlify.app/)
 
 ## 🎯 About the Game
